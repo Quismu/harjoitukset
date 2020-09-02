@@ -1,0 +1,3 @@
+tulostus = print
+tulostus("Tulostetaan...")
+
